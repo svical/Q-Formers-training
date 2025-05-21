@@ -28,7 +28,7 @@ git lfs clone https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
 At last download datasets for training
 ```
 cd datasets
-https://huggingface.co/datasets/shirsh10mall/Image_Captioning_GCC_Embeddings
+git lfs clone https://huggingface.co/datasets/shirsh10mall/Image_Captioning_GCC_Embeddings
 ```
 
 ## Training and inferencing
